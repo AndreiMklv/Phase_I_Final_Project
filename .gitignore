@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+.DS_Store
+action.xlsx animation.xlsx scifi.xlsx
+.CONTRIBUTING.md
+*.xslx
+
